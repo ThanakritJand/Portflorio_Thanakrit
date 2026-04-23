@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Navbar from "../components/navbar.vue";
-import Profile from "../../src/assets/profiles/profile.JPG";
+import Profile from "../assets/profiles/profile.JPG";
 </script>
 <template>
   <header>
