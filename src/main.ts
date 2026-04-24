@@ -6,16 +6,14 @@ import './style.css'
 import App from './App.vue'
 import home from './views/home.vue'
 import about from './views/about.vue'
-import skill from './views/skill.vue'
 import project from './views/project.vue'
 import contact from './views/contact.vue'
 
 const routes: Array<RouteRecordRaw> = [
     {path: "/" , component: home} ,
     {path: "/about" , component: about} ,
-    {path: "/skill" , component: skill} ,
     {path: "/project" , component: project} ,
-    {path: "/contact" , component: contact} ,
+    {path: "/contact" , component: contact} 
 ]
 
 const router = createRouter({
