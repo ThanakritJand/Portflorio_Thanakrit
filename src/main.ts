@@ -8,12 +8,14 @@ import home from './views/home.vue'
 import about from './views/about.vue'
 import project from './views/project.vue'
 import contact from './views/contact.vue'
+import activity from './views/activity.vue'
 
 const routes: Array<RouteRecordRaw> = [
     {path: "/" , component: home} ,
     {path: "/about" , component: about} ,
     {path: "/project" , component: project} ,
-    {path: "/contact" , component: contact} 
+    {path: "/contact" , component: contact} ,
+    {path: "/activity" , component: activity}
 ]
 
 const router = createRouter({

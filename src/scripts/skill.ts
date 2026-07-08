@@ -13,6 +13,11 @@
     import github from '../assets/skills/github-142-svgrepo-com.svg'
     import docker from '../assets/skills/docker-svgrepo-com.svg'
     import linux from '../assets/skills/linux-svgrepo-com.svg'
+    import fastapi from '../assets/skills/fastapi (1).svg'
+    import express from '../assets/skills/expressdotjs.svg'
+    import nodejs from '../assets/skills/nodejs.svg'
+    import postgresql from '../assets/skills/postgresql.svg'
+
     const mySkill : any[] = [
         {img: html , name: "HTML"} ,
         {img: css , name: "CSS"} ,
@@ -28,7 +33,11 @@
         {img: git , name: "Git"} ,
         {img: github , name: "Github"} ,
         {img: docker , name: "Docker"} ,
-        {img: linux , name: "Linux"} 
+        {img: linux , name: "Linux"} ,
+        {img: fastapi , name: "FastAPI"} ,
+        {img: express , name: "Express.js"} ,
+        {img: nodejs , name: "Node.js"} ,
+        {img: postgresql , name: "Postgresql"}
     ]
 
 

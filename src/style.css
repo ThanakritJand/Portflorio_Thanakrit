@@ -2,5 +2,12 @@
 @import "primeicons/primeicons.css";
 
 body {
-  background-color: #1a1a2e;
+  background: linear-gradient(120deg, #00001b, #0a1a3f, #000026, #132b5e, #00002d);
+  background-size: 300% 300%;
+  animation: navyShift 14s ease infinite;
+}
+
+@keyframes navyShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
 }
