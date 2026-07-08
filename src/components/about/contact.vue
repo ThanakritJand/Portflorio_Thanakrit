@@ -25,7 +25,7 @@ import portfolio from "../../assets/skills/portfolio.svg";
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4 w-full">
           <!-- Email -->
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:thanakrit.jand@gmail.com"
             class="flex flex-col items-center gap-2 p-4 rounded-lg border border-white/10 bg-white/5 hover:border-emerald-400/50 hover:bg-white/10 transition-all duration-200"
           >
             <img :src="gmail" alt="Email" class="w-10 h-10" />
@@ -34,7 +34,7 @@ import portfolio from "../../assets/skills/portfolio.svg";
 
           <!-- LinkedIn -->
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/thanakrit-jand-8a9857298/"
             target="_blank"
             rel="noopener noreferrer"
             class="flex flex-col items-center gap-2 p-4 rounded-lg border border-white/10 bg-white/5 hover:border-emerald-400/50 hover:bg-white/10 transition-all duration-200"
@@ -45,7 +45,7 @@ import portfolio from "../../assets/skills/portfolio.svg";
 
           <!-- GitHub -->
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/ThanakritJand"
             target="_blank"
             rel="noopener noreferrer"
             class="flex flex-col items-center gap-2 p-4 rounded-lg border border-white/10 bg-white/5 hover:border-emerald-400/50 hover:bg-white/10 transition-all duration-200"
