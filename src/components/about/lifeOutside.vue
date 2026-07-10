@@ -1,7 +1,7 @@
 <script></script>
 <template>
   <section class="my-10">
-    <div class="relative overflow-hidden rounded-3xl bg-mist-900/90 md:p-12 ">
+    <div class="relative overflow-hidden rounded-3xl bg-mist-900/90 p-8 md:p-12 ">
       <div
         class="pointer-event-none absolute -top-24 -left-24 h-72 w-72 rounded-full bg-cyan-500/20 blur-3xl"
       ></div>
