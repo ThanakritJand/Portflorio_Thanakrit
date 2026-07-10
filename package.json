@@ -11,6 +11,7 @@
   "dependencies": {
     "@ssgoi/vue": "^4.0.0",
     "@tailwindcss/vite": "^4.2.4",
+    "@vueuse/motion": "^3.0.3",
     "primeicons": "^7.0.0",
     "tailwindcss": "^4.2.4",
     "vue": "^3.5.32",

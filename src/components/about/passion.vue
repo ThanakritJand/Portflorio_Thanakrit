@@ -15,7 +15,7 @@
         <h1 class="font-semibold text-xl text-white font-mono">
           Passion | <span>เป้าหมายในชีวิต</span>
         </h1>
-        <div class="space-y-6 font-mono text-white text-base leading-relaxed">
+        <div class="space-y-6 text-white text-base leading-relaxed">
           <p>
             "เป้าหมายสูงสุดของผมคือการพัฒนา AI
             ที่เชื่อถือได้และสามารถนำมาใช้งานได้จริงโดยปราศจากข้อผิดพลาด

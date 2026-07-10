@@ -49,7 +49,7 @@ const age = calculateAge(birthDate);
           </div>
 
           <p
-            class="font-mono text-sm md:text-base leading-relaxed text-slate-300"
+            class="text-sm md:text-base leading-relaxed text-slate-300"
           >
             ตอนนี้กำลังเรียนอยู่ที่ SIT KMUTT ครับ ผมเป็นคนที่อินกับการพัฒนา
             Frontend พอๆ กับโลกของข้อมูล (Data & AI)

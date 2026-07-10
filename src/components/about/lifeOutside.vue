@@ -14,7 +14,7 @@
         <h1 class="font-semibold text-xl text-white font-mono">
           Life Outside | <span>กิจวัตรยามว่าง</span>
         </h1>
-        <p class="text-white font-mono">
+        <p class="text-white ">
           "Work Hard, Play Hard! เวลาว่างจากการปั้น Web Application
           ผมมักจะพักสายตาด้วยการเล่นเกม หรือเปิด Podcast
           ฟังเรื่องการเงินและการใช้ชีวิตเพลินๆ ครับ

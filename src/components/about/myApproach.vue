@@ -1,6 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+
+</script>
 <template>
-  <section class="my-10">
+  <section class="my-10" >
     <div
       class="relative overflow-hidden rounded-3xl bg-mist-900/90 p-8 md:p-12 "
     >
@@ -16,7 +18,7 @@
         <h1 class="font-semibold text-xl text-white font-mono">
           My Approach | <span>สไตล์การทำงาน</span>
         </h1>
-        <div class="space-y-6 font-mono text-white text-base leading-relaxed">
+        <div class="space-y-6 text-white text-base leading-relaxed">
           <p>
             หัวใจหลักของผมคือการสร้าง Web App ที่ทั้งใช้ง่ายและ 'ฉลาด'
             ด้วยการผสาน AI และ Data Analysis เพื่อยกระดับประสบการณ์ผู้ใช้

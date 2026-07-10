@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
+import { MotionPlugin } from '@vueuse/motion'
 import './style.css'
 
 
@@ -26,4 +27,5 @@ const router = createRouter({
 const app = createApp(App)
 
 app.use(router)
+app.use(MotionPlugin)
 app.mount('#app')
