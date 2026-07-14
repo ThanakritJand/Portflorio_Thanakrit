@@ -1,6 +1,6 @@
 <script setup lang="ts">
     import Navbar from '../components/navbar.vue';
-    import Form from '../components/contact/form.vue';
+    import Form from '../components/contact/form.vue';    
 </script>
 <template>
     <header>
