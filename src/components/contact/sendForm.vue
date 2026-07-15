@@ -10,7 +10,7 @@ import {
 
 <template>
   <main class="mx-5 my-10">
-    <section class="relative overflow-hidden rounded-3xl bg-mist-900/90 p-8 md:p-12 text-white">
+    <section class="relative overflow-hidden rounded-3xl bg-mist-900/90 p-50 md:p-12 text-white">
       <div class="pointer-events-none absolute -top-24 -left-24 w-72 h-72 bg-teal-500/20 blur-3xl rounded-full"></div>
       <div class="pointer-events-none absolute -top-24 -right-24 w-72 h-72 bg-teal-500/40 blur-3xl rounded-full"></div>
       <div class="pointer-events-none absolute -bottom-24 -left-24 w-72 h-72 bg-teal-500/40 blur-3xl rounded-full"></div>
