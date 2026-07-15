@@ -24,14 +24,14 @@ import {
             v-model="form.name" 
             placeholder="ชื่อของคุณ"
             required 
-            class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-pink-500 transition-colors"
+            class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-teal-500 transition-colors"
           />
           <input 
             type="email" 
             v-model="form.email" 
             placeholder="อีเมล"
             required 
-            class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-pink-500 transition-colors"
+            class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-teal-500 transition-colors"
           />
         </div>
 
@@ -40,7 +40,7 @@ import {
           placeholder="ข้อความของคุณ..."
           rows="4"
           required 
-          class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-pink-500 transition-colors resize-none"
+          class="w-full rounded-xl bg-mist-800/50 border border-mist-700 px-4 py-3 focus:outline-none focus:border-teal-500 transition-colors resize-none"
         ></textarea>
 
         <div>
